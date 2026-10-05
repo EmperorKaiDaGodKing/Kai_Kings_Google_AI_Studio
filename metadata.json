@@ -1,0 +1,6 @@
+{
+  "name": "Anime Garment & Identity Studio",
+  "description": "Transform your portrait and garments into identical, high-fidelity anime art while preserving your distinct facial features, hair structure, and clothing details.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
